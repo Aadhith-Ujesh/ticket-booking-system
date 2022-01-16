@@ -1,4 +1,8 @@
 ﻿  MyForm.cpp
+C:\Users\HP\source\repos\TicketBookingSystem\TicketBookingSystem\MyForm.h(8937,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\TicketBookingSystem\TicketBookingSystem\MyForm.h(8945,6): error C2065: 'QItem': undeclared identifier
+C:\Users\HP\source\repos\TicketBookingSystem\TicketBookingSystem\MyForm.h(8945,12): error C2146: syntax error: missing ';' before identifier 'object'
+C:\Users\HP\source\repos\TicketBookingSystem\TicketBookingSystem\MyForm.h(8945,12): error C3861: 'object': identifier not found
+C:\Users\HP\source\repos\TicketBookingSystem\TicketBookingSystem\MyForm.h(8946,17): error C2065: 'object': undeclared identifier
+C:\Users\HP\source\repos\TicketBookingSystem\TicketBookingSystem\MyForm.h(9117,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
 C:\Users\HP\source\repos\TicketBookingSystem\TicketBookingSystem\MyForm.cpp(9,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
-  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  TicketBookingSystem.vcxproj -> C:\Users\HP\source\repos\TicketBookingSystem\Debug\TicketBookingSystem.exe
